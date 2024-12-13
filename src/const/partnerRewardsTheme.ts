@@ -12,7 +12,7 @@ export const REWARDS_LIST = [
   {
     chainId: '1329',
     tokenChainId: 1329,
-    claimingAddress: '0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae',
+    claimingAddress: '0xef2694214bf7541220d796a557171165e8fb3251',
     tokenAddress: '0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7',
     decimalsToShow: 1,
     explorerLink: 'https://seitrace.com',
@@ -24,7 +24,7 @@ export const REWARDS_LIST = [
   {
     chainId: '30',
     tokenChainId: 30,
-    claimingAddress: '0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae',
+    claimingAddress: '0xef2694214bf7541220d796a557171165e8fb3251',
     tokenAddress: '0x542fda317318ebf1d3deaf76e0b632741a7e677d',
     decimalsToShow: 5,
     explorerLink: 'https://explorer.rootstock.io',
